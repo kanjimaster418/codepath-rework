@@ -20,15 +20,15 @@ The following **required** functionality is completed:
 ## App Brainstorming (Step 4)
 
 My favorite apps:
-1. Instagram
-   - Stories
-   - Bookmarking reels
-2. Gmail
+1. Gmail
    - Mark unread
    - All inboxes
-3. Google Maps
+2. Google Maps
    - Time for different transportation methods
    - Set departure/arrival time
+3. Instagram
+   - Stories
+   - Bookmarking reels
   
 I've noticed that campus culture has gotten worse, where everyone feels comfortable being in small groups and there isn't the presence of a community. This is especially noticeable since my college has a student body of around 1600. I would barely see anyone at events hosted by clubs or organizations. One reason for this is the fact that we don't have an organized platform for event announcements. Students normally find events through posters on the walls, but it can be overwhelming when the walls are covered with paper and posters are overlapping each other. I'm interested in creating an app that can be a hub for students to find events they're interested in. Students would be able to scroll through and see what events are happening - maybe even find ones they've never heard of! There could be a Tinder-like swiping funtion for events that students want to go to. There can also be an algorithm that pushes certain events to students depending on what they say their interests are in the app. It would be user-friendly for clubs/organizations as well, allowing them to upload information about their events effectively. 
 
